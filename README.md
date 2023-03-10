@@ -6,7 +6,7 @@ The pros of the project are that it scrapes current market listings, can be used
 
 The file to start with is scrap_data_craigslist.ipynb to scrape the data, then preprocessing_{*housing_type_*location_*date}.ipynb where multiple csv files scraped in different time can be combined into a single dataframe, and finally ml_model.ipynb.
 
-Please note that the scraping file requires a Chrome browser and WebDriver for Chrome installed.
+Please note that the scraping file requires a Chrome browser and WebDriver Mnager for Chrome installed.
 
 Please let me know if you have any questions or suggestions for improvement.
 
